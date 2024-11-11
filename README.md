@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=%E9%8C%AF%E8%AA%A4%E7%9A%84&vCenter=%E9%8C%AF%E8%AA%A4%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%8C%AF%E8%AA%A4%E7%9A%84&width=435&lines=Hi+there+...;%CE%93%CE%B5%CE%B9%CE%AC+%CF%83%CE%BF%CF%85+..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Precursive&duration=3000&pause=500&center=%E9%8C%AF%E8%AA%A4%E7%9A%84&vCenter=%E9%8C%AF%E8%AA%A4%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%8C%AF%E8%AA%A4%E7%9A%84&width=435&height=80&lines=%CE%8C%CF%84%CE%B1%CE%BD+%CF%84%CE%B1+%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1+%CF%80%CE%BF%CF%85+%CF%83%CF%85%CE%BD%CE%B9%CF%83%CF%84%CE%BF%CF%8D%CE%BD+%CE%AD%CE%BD%CE%B1;%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1+%CF%83%CF%85%CE%BD%CE%AF%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%B1%CE%B9+%CE%B5%CF%80%CE%AF%CF%83%CE%B7%CF%82+%CF%83%CE%B5+%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B5%CF%82;%CE%B1%CF%80%CF%8C+%CF%84%CE%BF+%CE%AF%CE%B4%CE%B9%CE%BF+%CF%84%CE%BF+%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1+..." alt="Typing SVG" /></a>
+
 <h1 align="center">  </h1>
 
 <p align="center">
@@ -10,7 +11,6 @@
     <img src="https://skillicons.dev/icons?i=git,gtk,obsidian,kubernetes,docker,redis,vim,mastodon" />
   </a>
 </p>
-<h1 align="center">  </h1>
 
 <div align="center">  
    <img height="170px" alt="oooocccc's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oooocccc&show_icons=true&theme=radical" />  
