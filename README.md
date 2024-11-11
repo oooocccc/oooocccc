@@ -12,12 +12,12 @@
 </p>
 <h1 align="center">  </h1>
 
-<p align="center">  
-   <img alt="oooocccc's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oooocccc&show_icons=true&theme=radical" />  
+<div align="center">  
+   <img height="170px" alt="oooocccc's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oooocccc&show_icons=true&theme=radical" />  
    <a href="https://git.io/streak-stats">  
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oooocccc&theme=radical" />  
+      <img height="170px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oooocccc&theme=radical" />  
    </a>  
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oooocccc/oooocccc/output/github-contribution-grid-snake-dark.svg">
